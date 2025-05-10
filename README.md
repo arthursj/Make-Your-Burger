@@ -38,7 +38,7 @@ Clone o projeto e acesse a pasta e instale as dependências.
 
 ```bash
 $ git clone https://github.com/arthursj/Make-Your-Burger.git
-$ cd make_your_burger
+$ cd Make-Your-Burger
 $ npm install
 ```
 
@@ -81,7 +81,7 @@ Clone the project and access the folder and install the dependencies.
 
 ```bash
 $ git clone https://github.com/arthursj/Make-Your-Burger.git
-$ cd make_your_burger
+$ cd Make-Your-Burger
 $ npm install
 ```
 
